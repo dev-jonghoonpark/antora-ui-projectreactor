@@ -100,7 +100,7 @@
 
   /* TOC */
   --toc-width: 24rem;
-  --toc-display: block;
+  --toc-display: none;
   --toc-font-color: var(--body-font-color);
   --toc-hover-background-color: var(--color-accent-1);
   --toc-active-background-color: var(--selected-background-color);
@@ -243,7 +243,6 @@
     --toc-bar-display: block;
     --toc-bar-height: 24px;
     --toc-width: 0;
-    --toc-display: none;
   }
 }
 
